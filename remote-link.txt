@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://compact-permits-pull-returned.trycloudflare.com/vnc.html
+URL       : https://blast-removal-mac-flex.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-16 14:45:25
+Created   : 2026-10-16 18:47:14
 =======================================================
